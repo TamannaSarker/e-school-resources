@@ -1,0 +1,210 @@
+
+/* Navbar*/ 
+.container{
+    margin-bottom: 100px;
+    padding: 40px;
+    background-color:#f0fff0 ;
+}
+.navbar-brand{
+    background-color: #f0fff0;
+}
+.navbar-brand img{
+    width: 150;
+    height: 50px;
+
+}
+.navbar{
+    margin: 0px 20px;
+    background-color: #f0fff0;
+    
+
+}
+/* Tpo-banner*/
+#top-head{
+    color: red;
+    
+}
+span{
+    color:#21b573;
+}
+
+#right{
+    text-align: left;
+}
+
+.col-md-6 img{
+    width: 100%;
+}
+.link-button{
+    background-color: #21b573;
+    border-radius: 33px;
+    border:none;
+    width: 153px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+}
+.link-button:hover{
+    background-color: orange;
+    color: white;
+}
+
+.left{
+    margin-left: 55%;
+}
+
+
+/* 1st Card*/
+.categories{
+    margin: 20px 90px 100px 90px;
+}
+
+
+.cat1{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #f0fff0;
+    
+}
+.cat1:hover{
+    background-color: white;
+    box-shadow: 5px 2px whitesmoke;
+    animation: animationname 4s ease-in-out infinite ;
+}
+
+@keyframes animationname {
+    0%{
+       transform:  scale(1)
+    }
+    
+    100%{
+        transform: scale(1.2)
+}
+}
+
+
+.categories img{
+    width: 66px;
+    height: 85px;
+    
+}
+.ikon {
+    margin-left: 30%;
+}
+h4{
+    margin:13px;
+    font-size:15px;
+    text-align: center;
+}
+.paragraph{
+    font-size: 11px;
+    text-align: center;
+}
+
+
+/*this is 2nd card*/
+.container-1{
+    margin:20px 80px 100px 80px;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+   padding: 20px 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 40px;
+} 
+.icon img{
+
+width: 30px;
+height: 30px;
+}
+.icon{
+    font-size: 12px;
+    display:inline;
+    justify-content:space-between;
+}
+   
+.test {
+    display: inline;
+}
+
+.link-button-2{
+    background-color:#21b573;
+    border-radius: 15px;
+    border: none;
+    width: 100px;
+    height: 35px;
+    left: 70px;
+    top: 70px;
+
+
+}
+.link-button-2:hover{
+    background-color: aquamarine;
+}
+
+/*Test Terminal*/
+
+.container-2{
+    margin: 20px 120px 100px 120px;
+
+}
+.img-2 img{
+    width: 100%;
+}
+
+.col-8{
+
+    margin-top: 50px;
+}
+/* Contact*/
+.contact{
+    background-color: aquamarine;
+   
+    font-size: 15px;
+}
+    
+
+  
+
+.link-button-1{
+    background-color: white;
+    border-radius: 5px;
+    border:black;
+    width: 140px;
+    height: 35px;
+    left: 205px;
+    top: 470px;
+}
+
+/* Courses*/
+.container-3{
+   background-color: black; 
+   color: white; 
+   padding: 20px 5px;
+   margin: 20px 0px;
+   font-size: 12px;
+}
+.footer-p{
+    margin-left:-40%;
+}
+
+
+.font{
+    margin-left: 40px;}
+
+
+/*Footer*/
+
+footer{
+    
+    text-align: center;
+}
+
+me
+
+
